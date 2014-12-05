@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <link href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/shift.css" rel="stylesheet">
+    
+    <link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css">
+    <link rel="stylesheet" href="main.css">
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+    
+  </head>
+
+  <body>
+    <div class="nav">
+      <div class="container">
+        <ul>
+		<li><a href="kdr.html">Home</a></li>
+          <li><a href="kdrabout.html">About</a></li>
+<li><a href="kdrnews.html">News</a></li>
+          <li><a href="kdrservice.html">Community Service</a></li>
+          <li><a href="kdrphilanthropy.html">Philanthropy</a></li>
+          <li><a href="kdrdonate.html">Donate</a></li>
+	<li><a href="kdrcalendar.html">Calendar</a></li>
+ <li><a href="kdrcontact.html">Contact</a></li>
+<li><a href="kdrbrothers.html">Brothers</a></li>
+        </ul>
+      </div>
+    </div>
+    
+  
+
+
+
+  <div class="neighborhood-guides">
+    <div class="container">
+        <h2> Calendar of Events</h2>			
+
+				<table width="100%" border="0" align="center">
+				<tr>
+				
+				<td width="33%" valign="bottom"><div align="left" class="calSubTitle"></div></td>
+				<td width="33%"><div align="center" class="calTitle">December&nbsp;2014</div></td>
+				
+				<td width="33%" valign="bottom"><div align="right" class="calSubTitle"><a href="calendar.asp?dt=0115&t=">&lt;January&nbsp;2015&gt;</a></td>
+				</tr>
+				</table>
+				<table  width="100%" border="1" class="contentInternal">
+				<tr class="contentRow"> 
+					<td width="14%" align="center">Sunday</td>
+					<td width="14%" align="center">Monday</td>
+					<td width="14%" align="center">Tuesday</td>
+					<td width="14%" align="center">Wednesday</td>
+					<td width="14%" align="center">Thursday</td>
+					<td width="14%" align="center">Friday</td>
+					<td width="14%" align="center">Saturday</td>
+				</tr>
+
+<tr>
+
+
+        <td width="14%" height="75" valign="top">&nbsp;</td>
+	
+					<td width="14%" height="75" valign="top" onmouseover="this.className='over'; style.cursor='pointer'" onmouseout="this.className='out'" title="12/1/2014">
+					<span class="calNumbers">1</span><br><span class="calContent"></span>
+					</td>
+		
+					<td width="14%" height="75" valign="top" onmouseover="this.className='over'; style.cursor='pointer'" onmouseout="this.className='out'" title="12/2/2014">
+					<span class="calNumbers">2</span><br><span class="calContent"></span>
+					</td>
+		
+					<td width="14%" height="75" valign="top" onmouseover="this.className='over'; style.cursor='pointer'" onmouseout="this.className='out'" title="12/3/2014">
+					<span class="calNumbers">3</span><br><span class="calContent"></span>
+					</td>
+		
+					<td width="14%" height="75" valign="top" onmouseover="this.className='over'; style.cursor='pointer'" onmouseout="this.className='out'" title="12/4/2014">
+					<span class="calNumbers">4</span><br><span class="calContent"></span>
+					</td>
+		
+					<td width="14%" height="75" valign="top" onmouseover="this.className='over'; style.cursor='pointer'" onmouseout="this.className='out'" title="12/5/2014">
+					<span class="calNumbers">5</span><br><span class="calContent"></span>
+					</td>
+		
+					<td width="14%" height="75" valign="top" onmouseover="this.className='over'; style.cursor='pointer'" onmouseout="this.className='out'" title="12/6/2014">
+					<span class="calNumbers">6</span><br><span class="calContent"></span>
+					</td>
+		
+</tr>
+
+
+<tr>
+
+					<td width="14%" height="75" valign="top" onmouseover="this.className='over'; style.cursor='pointer'" onmouseout="this.className='out'" title="12/7/2014">
+					<span class="calNumbers">7</span><br><span class="calContent"></span>
+					</td>
+		
+					<td width="14%" height="75" valign="top" onmouseover="this.className='over'; style.cursor='pointer'" onmouseout="this.className='out'" title="12/8/2014">
+					<span class="calNumbers">8</span><br><span class="calContent"></span>
+					</td>
+		
+					<td width="14%" height="75" valign="top" onmouseover="this.className='over'; style.cursor='pointer'" onmouseout="this.className='out'" title="12/9/2014">
+					<span class="calNumbers">9</span><br><span class="calContent"></span>
+					</td>
+		
+					<td width="14%" height="75" valign="top" onmouseover="this.className='over'; style.cursor='pointer'" onmouseout="this.className='out'" title="12/10/2014">
+					<span class="calNumbers">10</span><br><span class="calContent"></span>
+					</td>
+		
+					<td width="14%" height="75" valign="top" onmouseover="this.className='over'; style.cursor='pointer'" onmouseout="this.className='out'" title="12/11/2014">
+					<span class="calNumbers">11</span><br><span class="calContent"></span>
+					</td>
+		
+					<td width="14%" height="75" valign="top" onmouseover="this.className='over'; style.cursor='pointer'" onmouseout="this.className='out'" title="12/12/2014">
+					<span class="calNumbers">12</span><br><span class="calContent"></span>
+					</td>
+		
+					<td width="14%" height="75" valign="top" onmouseover="this.className='over'; style.cursor='pointer'" onmouseout="this.className='out'" title="12/13/2014">
+					<span class="calNumbers">13</span><br><span class="calContent"></span>
+					</td>
+		
+</tr>
+
+<tr>
+
+					<td width="14%" height="75" valign="top" onmouseover="this.className='over'; style.cursor='pointer'" onmouseout="this.className='out'" title="12/14/2014">
+					<span class="calNumbers">14</span><br><span class="calContent"></span>
+					</td>
+		
+					<td width="14%" height="75" valign="top" onmouseover="this.className='over'; style.cursor='pointer'" onmouseout="this.className='out'" title="12/15/2014">
+					<span class="calNumbers">15</span><br><span class="calContent"></span>
+					</td>
+		
+					<td width="14%" height="75" valign="top" onmouseover="this.className='over'; style.cursor='pointer'" onmouseout="this.className='out'" title="12/16/2014">
+					<span class="calNumbers">16</span><br><span class="calContent"></span>
+					</td>
+		
+					<td width="14%" height="75" valign="top" onmouseover="this.className='over'; style.cursor='pointer'" onmouseout="this.className='out'" title="12/17/2014">
+					<span class="calNumbers">17</span><br><span class="calContent"></span>
+					</td>
+		
+					<td width="14%" height="75" valign="top" onmouseover="this.className='over'; style.cursor='pointer'" onmouseout="this.className='out'" title="12/18/2014">
+					<span class="calNumbers">18</span><br><span class="calContent"></span>
+					</td>
+		
+					<td width="14%" height="75" valign="top" onmouseover="this.className='over'; style.cursor='pointer'" onmouseout="this.className='out'" title="12/19/2014">
+					<span class="calNumbers">19</span><br><span class="calContent"></span>
+					</td>
+		
+					<td width="14%" height="75" valign="top" onmouseover="this.className='over'; style.cursor='pointer'" onmouseout="this.className='out'" title="12/20/2014">
+					<span class="calNumbers">20</span><br><span class="calContent"></span>
+					</td>
+		
+</tr>
+
+<tr>
+
+					<td width="14%" height="75" valign="top" onmouseover="this.className='over'; style.cursor='pointer'" onmouseout="this.className='out'" title="12/21/2014">
+					<span class="calNumbers">21</span><br><span class="calContent"></span>
+					</td>
+		
+					<td width="14%" height="75" valign="top" onmouseover="this.className='over'; style.cursor='pointer'" onmouseout="this.className='out'" title="12/22/2014">
+					<span class="calNumbers">22</span><br><span class="calContent"></span>
+					</td>
+		
+					<td width="14%" height="75" valign="top" onmouseover="this.className='over'; style.cursor='pointer'" onmouseout="this.className='out'" title="12/23/2014">
+					<span class="calNumbers">23</span><br><span class="calContent"></span>
+					</td>
+		
+					<td width="14%" height="75" valign="top" onmouseover="this.className='over'; style.cursor='pointer'" onmouseout="this.className='out'" title="12/24/2014">
+					<span class="calNumbers">24</span><br><span class="calContent"></span>
+					</td>
+		
+					<td width="14%" height="75" valign="top" onmouseover="this.className='over'; style.cursor='pointer'" onmouseout="this.className='out'" title="12/25/2014">
+					<span class="calNumbers">25</span><br><span class="calContent"></span>
+					</td>
+		
+					<td width="14%" height="75" valign="top" onmouseover="this.className='over'; style.cursor='pointer'" onmouseout="this.className='out'" title="12/26/2014">
+					<span class="calNumbers">26</span><br><span class="calContent"></span>
+					</td>
+		
+					<td width="14%" height="75" valign="top" onmouseover="this.className='over'; style.cursor='pointer'" onmouseout="this.className='out'" title="12/27/2014">
+					<span class="calNumbers">27</span><br><span class="calContent"></span>
+					</td>
+		
+</tr>
+
+<tr>
+
+					<td width="14%" height="75" valign="top" onmouseover="this.className='over'; style.cursor='pointer'" onmouseout="this.className='out'" title="12/28/2014">
+					<span class="calNumbers">28</span><br><span class="calContent"></span>
+					</td>
+		
+					<td width="14%" height="75" valign="top" onmouseover="this.className='over'; style.cursor='pointer'" onmouseout="this.className='out'" title="12/29/2014">
+					<span class="calNumbers">29</span><br><span class="calContent"></span>
+					</td>
+		
+					<td width="14%" height="75" valign="top" onmouseover="this.className='over'; style.cursor='pointer'" onmouseout="this.className='out'" title="12/30/2014">
+					<span class="calNumbers">30</span><br><span class="calContent"></span>
+					</td>
+		
+					<td width="14%" height="75" valign="top" onmouseover="this.className='over'; style.cursor='pointer'" onmouseout="this.className='out'" title="12/31/2014">
+					<span class="calNumbers">31</span><br><span class="calContent"></span>
+					</td>
+		
+					<td width="14%" height="75" valign="top" onmouseover="this.className='over'; style.cursor='pointer'" onmouseout="this.className='out'" title="">
+					<span class="calNumbers"></span><br><span class="calContent"></span>
+					</td>
+
+					<td width="14%" height="75" valign="top" onmouseover="this.className='over'; style.cursor='pointer'" onmouseout="this.className='out'" title="">
+					<span class="calNumbers"></span><br><span class="calContent"></span>
+					</td>
+
+					<td width="14%" height="75" valign="top" onmouseover="this.className='over'; style.cursor='pointer'" onmouseout="this.className='out'" title="">
+					<span class="calNumbers"></span><br><span class="calContent"></span>
+					</td>
+
+</tr>
+
+
+            </table>
+
+
+</p>
+
+
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+
+
+
+
+
+
+  </body>
+</html>
