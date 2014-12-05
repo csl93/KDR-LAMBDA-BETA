@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <link href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/shift.css" rel="stylesheet">
+    
+    <link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css">
+    <link rel="stylesheet" href="main.css">
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+    
+  </head>
+
+  <body>
+   <div class="nav">
+      <div class="container">
+        <ul>
+		<li><a href="kdr.html">Home</a></li>
+          <li><a href="kdrabout.html">About</a></li>
+<li><a href="kdrnews.html">News</a></li>
+          <li><a href="kdrservice.html">Community Service</a></li>
+          <li><a href="kdrphilanthropy.html">Philanthropy</a></li>
+          <li><a href="kdrdonate.html">Donate</a></li>
+	<li><a href="kdrcalendar.html">Calendar</a></li>
+ <li><a href="kdrcontact.html">Contact</a></li>
+ <li><a href="kdrbrothers.html">Brothers</a></li>
+        </ul>
+      </div>
+    </div>
+
+    
+  
+
+
+
+  <div class="neighborhood-guides">
+    <div class="container">
+        <h2>Executive and Advisory Board Contact Information</h2>
+<table style="width:85%">
+  
+  <tr>
+    <th>Position</th>
+    <th>Name</th>
+ <th>Email</th>
+ <th>Number</th>
+
+  </tr>
+  <tr>
+    <td>Consul</td>
+    <td>Robert Sullivan</td>
+<td>sullivrx@dukes.jmu.edu
+</td>
+<td>(###)###-####</td>
+  </tr>
+  <tr>
+    <td>Senior Tribune</td>
+       <td>Kenneth Johnson</td>
+<td>sullivrx@dukes.jmu.edu
+</td>
+<td>(###)###-####</td>
+  </tr>
+<tr>
+    <td>Junior Tribune</td>
+        <td>Michael Rosenbaum</td>
+<td>sullivrx@dukes.jmu.edu
+</td>
+<td>(###)###-####</td>
+  </tr>
+<tr>
+    <td>Quaestor</td>
+        <td>Alexander Henderson</td>
+<td>sullivrx@dukes.jmu.edu
+</td>
+<td>(###)###-####</td>
+  </tr>
+
+<tr>
+    <td>Praetor</td>
+        <td>Christopher Lu</td>
+<td>lucs@dukes.jmu.edu
+</td>
+<td>(540)845-6880</td>
+  </tr>
+
+<tr>
+    <td>Aedile</td>
+        <td>Joshua Roesch</td>
+<td>sullivrx@dukes.jmu.edu
+</td>
+<td>(###)###-####</td>
+  </tr>
+
+<tr>
+    <td>Pontifex</td>
+        <td>Taylor Crew</td>
+<td>sullivrx@dukes.jmu.edu
+</td>
+<td>(###)###-####</td>
+  </tr>
+
+<tr>
+    <td>Centurion</td>
+        <td>Jacob McMonagle</td>
+<td>sullivrx@dukes.jmu.edu
+</td>
+<td>(###)###-####</td>
+  </tr>
+</table>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+  </body>
+</html>
