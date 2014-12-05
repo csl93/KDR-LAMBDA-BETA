@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <link href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/shift.css" rel="stylesheet">
+    
+    <link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css">
+    <link rel="stylesheet" href="main.css">
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+    
+  </head>
+
+  <body>
+      <div class="nav">
+      <div class="container">
+        <ul>
+		<li><a href="kdr.html">Home</a></li>
+          <li><a href="kdrabout.html">About</a></li>
+<li><a href="kdrnews.html">News</a></li>
+          <li><a href="kdrservice.html">Community Service</a></li>
+          <li><a href="kdrphilanthropy.html">Philanthropy</a></li>
+          <li><a href="kdrdonate.html">Donate</a></li>
+	<li><a href="kdrcalendar.html">Calendar</a></li>
+ <li><a href="kdrcontact.html">Contact</a></li>
+ <li><a href="kdrbrothers.html">Brothers</a></li>
+        </ul>
+      </div>
+    </div>
+    
+  
+
+
+
+  <div class="neighborhood-guides">
+    <div class="container">
+        <h2> Kappa Delta Rho Philanthropy</h2> 
+<a href="http://www.bepositive.org/"> B+ Foundation (Be Positive) </a>
+<p>The Andrew McDonough B+ Foundation honors the memory of Andrew, a 14-year-old athlete and 'A' student from Wilmington, Delaware. January 27, 2007, Andrew helped lead his team to victory in a state championship soccer tournament. Within 48 hours, he was in cardiac arrest. The diagnosis was Leukemia (AML). The doctors didn't expect Andrew to live through the night.  Amazingly, Andrew fought for 167 days and went to Heaven on July 14, 2007.
+</p><p>Throughout Andrew's illness, he inspired thousands of friends and families. We learned his blood type was B+, which became our motto throughout the fight, to "Be Positive."  B+ reflected how Andrew lived his life and how he inspired others to do the same. Andrew's valiant journey was chronicled in newspapers, on television and on his website, where he and his family have received visits from almost 2 million "friends" leaving messages of prayer, hope, consolation, and stories about Andrew</p>
+      
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+
+
+
+
+
+
+  </body>
+</html>
