@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <link href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/shift.css" rel="stylesheet">
+    
+    <link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css">
+    <link rel="stylesheet" href="main.css">
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+    
+  </head>
+
+  <body>
+      <div class="nav">
+      <div class="container">
+        <ul>
+		<li><a href="kdr.html">Home</a></li>
+          <li><a href="kdrabout.html">About</a></li>
+<li><a href="kdrnews.html">News</a></li>
+          <li><a href="kdrservice.html">Community Service</a></li>
+          <li><a href="kdrphilanthropy.html">Philanthropy</a></li>
+          <li><a href="kdrdonate.html">Donate</a></li>
+	<li><a href="kdrcalendar.html">Calendar</a></li>
+ <li><a href="kdrcontact.html">Contact</a></li>
+ <li><a href="kdrbrothers.html">Brothers</a></li>
+        </ul>
+      </div>
+    </div>
+
+
+  <div class="community">
+    <div class="container">
+<div style="text-align:center;">
+        <h2> Kappa Delta Rho Community Service</h2>
+	
+    <div class="communityjumbo">
+      <div class="container">
+     
+    </div> 
+</div>
+<a href="http://www.hrarc.org/">Click here to learn more about The Arc of Harrisonburg and Rockingham</a>
+<h1>Mission Statement</h1>
+
+<p>The Arc of Harrisonburg and Rockingham promotes and protects the human rights of people with intellectual and developmental disabilities and actively supports their full inclusion and participation in the community throughout their lifetimes.
+</p>
+
+<h1>Our Vision</h1>
+
+<h3>People First</h3>
+
+<p>We believe that all people with intellectual and developmental disabilities are defined by their own strengths, abilities and inherent value, not by their disability.
+</p>
+
+<h3>Equity</h3>
+
+<p>We believe that people with intellectual and developmental disabilities are entitled to the respect, dignity, equality, safety, and security accorded to other members of society, and are equal before the law.
+</p>
+
+<h3>Community</h3>
+
+<p>We believe that people with intellectual and developmental disabilities belong in the community and have fundamental moral, civil and constitutional rights to be fully included and actively participate in all aspects of society.
+
+<h3>Self-determination</h3>
+
+<p>We believe in self-determination and self-advocacy. People with intellectual and developmental disabilities, with appropriate resources and supports, can make decisions about their own lives and must be heard on issues that affect their well-being.
+</p>
+<h3>Diversity</h3>
+
+<p>We believe that society in general and The Arc in particular benefit from the contributions of people with diverse personal characteristics (including but not limited to race, ethnicity, religion, age, geographic location, sexual orientation, gender and type of disability).</p>
+</p>      
+</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+
+
+
+
+
+
+  </body>
+</html>
