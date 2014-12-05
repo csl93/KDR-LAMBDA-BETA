@@ -1,0 +1,215 @@
+.nav a {
+  
+color: #5a5a5a;
+  
+font-size: 11px;
+  
+font-weight: bold;
+  
+padding: 14px 10px;
+  
+text-transform: uppercase;
+}
+
+
+
+.nav li {
+  
+display: inline;
+}
+
+
+
+.jumbotron {
+  
+background-image:url('http://www.jmu.edu/photography/wm_library/H21574O_06.02.10_031.jpg');
+  
+height: 400px;
+  
+background-repeat: 
+no-repeat;
+  
+background-size: 
+cover;
+}
+
+
+
+.jumbotron .container {
+  
+position: relative;
+  
+top:100px;
+}
+
+
+
+.jumbotron h1 {
+  
+color: #blue;
+  
+font-size: 56px;  
+  
+font-family: "Times New Roman", Times, serif;
+font-weight: bold;
+}
+
+
+
+.jumbotron p {
+  
+font-size: 27px;
+  
+color: #orange;
+}
+
+
+
+.learn-more {
+ 
+background-color: #f7f7f7;
+}
+
+
+
+.learn-more h3 {
+  
+font-family: 'Shift', sans-serif;
+  
+font-size: 18px;
+  font-weight: bold;
+}
+
+
+
+.learn-more a {
+  color: #00b0ff;
+}
+
+
+
+.neighborhood-guides {
+   
+background-color: #efefef;
+    
+border-bottom: 1px solid #dbdbdb;
+}
+
+
+
+.neighborhood-guides h2{
+    
+color: #393c3d;
+   
+ font-size: 24px;
+}
+
+
+.neighboord-guides li{
+ margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 200px;
+    margin-left: 0px;
+
+
+}
+
+img {
+	style: center;
+}
+
+.neighborhood-guides p{
+    
+font-size: 15px;
+    
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 200px;
+    margin-left: 0px;
+
+}
+
+.community {
+   
+background-color: #efefef;
+    
+border-bottom: 1px solid #dbdbdb;
+}
+
+
+
+.community h2{
+    
+color: #393c3d;
+   
+ font-size: 24px;
+}
+
+
+.neighboord-guides li{
+ margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 200;
+    margin-left: 200px;
+
+
+}
+
+
+
+.community p{
+    
+font-size: 15px;
+    
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 200px;
+    margin-left: 200px;
+
+}
+
+
+.communityjumbo {
+  
+background-image:url('http://www.hrarc.org/images/masthead%20white%20background.jpg');
+  
+height: 210px;
+  
+background-repeat: 
+no-repeat;
+  
+background-size: 
+cover;
+}
+
+
+
+.communityjumbo  .container {
+  
+position: relative;
+  
+top:10px;
+}
+
+
+
+.communityjumbo  h1 {
+  
+color: #blue;
+  
+font-size: 56px;  
+  
+font-family: "Times New Roman", Times, serif;
+font-weight: bold;
+}
+
+
+
+.communityjumbo  p {
+  
+font-size: 27px;
+  
+color: #orange;
+}
+
+
